@@ -547,10 +547,6 @@ def validate_attrition_models(X_train, y_train, X_test, y_test):
 - **Performance Optimization**: 89.2% (efficiency improvements)
 - **Business Impact**: 96.3% (based on HR metrics)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## 🙏 Acknowledgments
 
 - **IBM**: For providing comprehensive employee dataset
